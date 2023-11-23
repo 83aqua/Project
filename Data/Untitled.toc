@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Objectives}{3}{0}{1}
+\beamer@sectionintoc {2}{Time Series}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Data Review}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Decomposition}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Trend and Seasonality}{11}{0}{2}
+\beamer@subsectionintoc {2}{4}{Smoothing - Holts Winters }{13}{0}{2}
+\beamer@subsectionintoc {2}{5}{Auto correlation and auto regressive models}{15}{0}{2}
